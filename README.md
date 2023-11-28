@@ -40,14 +40,14 @@
   
 1. **Clone the repository**:<br>
    ```bash<br>
-   git clone https://github.com/your-username/your-repo-name.git<br>
-   cd your-repo-name<br>
-   ```<br>
+   git clone https://github.com/YassineNefziToDo-List-Application-with-FastAPI.git
+   cd your-repo-name
+   
    
 2. **Install dependencies**:<br>
    ```bash<br>
-   pip install -r requirements.txt<br>
-   ```<br>
+   pip install -r requirements.txt
+  
    
 3. **Database setup**:<br>
    - Details on initializing and configuring the database (SQLite or others).
@@ -60,8 +60,7 @@
   
 1. **Run the application**:<br>
    ```bash<br>
-   uvicorn main:app --reload<br>
-   ```<br>
+   uvicorn main:app --reload
    
 2. **Access the application**:<br>
    - Visit `http://localhost:8000` or the specified address where the FastAPI application is running in your browser.<br>
