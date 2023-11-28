@@ -29,9 +29,11 @@
 1. **Clone the repository**:
    git clone https://github.com/YassineNefzi/ToDo-List-Application-with-FastAPI.git<br>
    cd your-repo-name
+  
 2. **Install dependencies**:
    pip install -r requirements.txt
-3. **Database setup**:<br>
+   
+4. **Database setup**:<br>
    - Details on initializing and configuring the database (SQLite or others).
 </p>
 
