@@ -47,11 +47,6 @@
 2. **Install dependencies**:<br>
    ```bash<br>
    pip install -r requirements.txt
-  
-   
-3. **Database setup**:<br>
-   - Details on initializing and configuring the database (SQLite or others).
-</p>
 
 <!-- Usage -->
 <h2>:rocket: Usage</h2>
