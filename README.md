@@ -26,15 +26,11 @@
 <h2>:wrench: Installation</h2>
 
 <p>
-1. **Clone the repository**:<br>
-   ```bash<br>
+1. **Clone the repository**:
    git clone https://github.com/your-username/your-repo-name.git<br>
-   cd your-repo-name<br>
-   ```<br>
-2. **Install dependencies**:<br>
-   ```bash<br>
-   pip install -r requirements.txt<br>
-   ```<br>
+   cd your-repo-name
+2. **Install dependencies**:
+   pip install -r requirements.txt
 3. **Database setup**:<br>
    - Details on initializing and configuring the database (SQLite or others).
 </p>
@@ -43,42 +39,11 @@
 <h2>:rocket: Usage</h2>
 
 <p>
-1. **Run the application**:<br>
-   ```bash<br>
-   uvicorn main:app --reload<br>
-   ```<br>
+1. **Run the application**:
+   uvicorn main:app --reload
 2. **Access the application**:<br>
    - Visit `http://localhost:8000` or the specified address where the FastAPI application is running in your browser.<br>
 3. **Use endpoints** for user registration, login, and managing tasks.
 </p>
 
-<!-- Endpoints -->
-<h2>:link: Endpoints</h2>
-
-<p>
-- `/register`: POST request for user registration.<br>
-- `/login`: POST request for user login.<br>
-- `/todo`: CRUD operations for managing tasks.
-</p>
-
-<!-- Contributing -->
-<h2>:handshake: Contributing</h2>
-
-<p>
-Contributions are welcome! Feel free to open issues or pull requests for improvements or bug fixes.
-</p>
-
-<!-- License -->
-<h2>:scroll: License</h2>
-
-<p>
-This project is licensed under the [MIT License](link-to-license-file).
-</p>
-
-<!-- Acknowledgments -->
-<h2>:clap: Acknowledgments</h2>
-
-<p>
-- Credits or acknowledgments for libraries, tutorials, or resources used.
-</p>
 
