@@ -40,8 +40,8 @@
   
 1. **Clone the repository**:<br>
    ```bash<br>
-   git clone https://github.com/YassineNefziToDo-List-Application-with-FastAPI.git
-   cd your-repo-name
+   git clone https://github.com/YassineNefzi/ToDo-List-Application-with-FastAPI.git
+   cd ToDo-List-Application-with-FastAPI
    
    
 2. **Install dependencies**:<br>
